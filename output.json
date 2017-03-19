@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Kimois, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.157498499999999,
+    "ne_lng": 92.76475239999999,
+    "sw_lat": 9.150534400000002,
+    "sw_lng": 92.75908489999999,
+    "lat": 9.153141699999999,
+    "lng": 92.7618028
+  },
+  {
+    "name": "Car Nicobar, AN_Nikobars",
+    "level": "SUB-DISTRICT",
+    "ne_lat": 9.257494099999999,
+    "ne_lng": 92.83172610000001,
+    "sw_lat": 9.1168005,
+    "sw_lng": 92.7176355,
+    "lat": 9.1573175,
+    "lng": 92.7580701
+  },
+  {
+    "name": "Malacca, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.1742964,
+    "ne_lng": 92.8267051,
+    "sw_lat": 9.1679412,
+    "sw_lng": 92.81039709999999,
+    "lat": 9.1720399,
+    "lng": 92.8215666
+  },
+  {
+    "name": "IAF Camp, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.1610988,
+    "ne_lng": 92.82958029999999,
+    "sw_lat": 9.1475621,
+    "sw_lng": 92.81962399999999,
+    "lat": 9.154733499999999,
+    "lng": 92.8246813
+  },
+  {
+    "name": "Nicobars, AN_Nikobars",
+    "level": "DISTRICT",
+    "lat": 8,
+    "lng": 93.5
+  },
+  {
+    "name": "Small Lapati, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.2185664,
+    "ne_lng": 92.78855329999999,
+    "sw_lat": 9.210729599999999,
+    "sw_lng": 92.7840471,
+    "lat": 9.214499,
+    "lng": 92.78607269999999
+  },
+  {
+    "name": "Perka, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.1829389,
+    "ne_lng": 92.8255963,
+    "sw_lat": 9.1723094,
+    "sw_lng": 92.80772309999999,
+    "lat": 9.1776097,
+    "lng": 92.81658340000001
+  },
+  {
+    "name": "Big Lapati, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.2340702,
+    "ne_lng": 92.7934027,
+    "sw_lat": 9.2253441,
+    "sw_lng": 92.78533469999999,
+    "lat": 9.2303868,
+    "lng": 92.7891851
+  },
+  {
+    "name": "Nancowry, AN_Nikobars",
+    "level": "SUB-DISTRICT",
+    "ne_lat": 8.031779199999999,
+    "ne_lng": 93.5830021,
+    "sw_lat": 7.9261245,
+    "sw_lng": 93.5048103,
+    "lat": 7.976840399999999,
+    "lng": 93.5509074
+  },
+  {
+    "name": "Tillang Chong Island*, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 8.5757805,
+    "ne_lng": 93.64208579999999,
+    "sw_lat": 8.4221012,
+    "sw_lng": 93.60998509999999,
+    "lat": 8.4976082,
+    "lng": 93.6293797
+  },
+  {
+    "name": "Luxi, AN_Nikobars",
+    "level": "VILLAGE",
+    "lat": 8.2244348,
+    "lng": 93.1451644
+  },
+  {
+    "name": "Jansin*, AN_Nikobars",
+    "level": "VILLAGE",
+    "lat": 7.987988399999999,
+    "lng": 93.34126289999999
+  },
+  {
+    "name": "Bompoka Island*, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 8.031779199999999,
+    "ne_lng": 93.5830021,
+    "sw_lat": 7.9261245,
+    "sw_lng": 93.5048103,
+    "lat": 7.976840399999999,
+    "lng": 93.5509074
+  },
+  {
+    "name": "Kulatapangia*, AN_Nikobars",
+    "level": "VILLAGE",
+    "lat": 7.923334100000001,
+    "lng": 93.45726789999999
+  },
+  {
+    "name": "Kapanga*, AN_Nikobars",
+    "level": "VILLAGE",
+    "lat": 7.997003100000001,
+    "lng": 93.3972548
+  },
+  {
+    "name": "Upper Katchal, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 8.0241726,
+    "ne_lng": 93.4741688,
+    "sw_lat": 7.8725644,
+    "sw_lng": 93.3104468,
+    "lat": 7.9675489,
+    "lng": 93.35904459999999
+  },
+  {
+    "name": "Malacca*, AN_Nikobars",
+    "level": "VILLAGE",
+    "ne_lat": 9.1742964,
+    "ne_lng": 92.8267051,
+    "sw_lat": 9.1679412,
+    "sw_lng": 92.81039709999999,
+    "lat": 9.1720399,
+    "lng": 92.8215666
+  },
+  {
+    "name": "Maru*, AN_Nikobars",
+    "level": "VILLAGE",
+    "lat": 8.0913706,
+    "lng": 93.4981538
+  }
+]
