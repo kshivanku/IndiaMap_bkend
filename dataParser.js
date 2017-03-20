@@ -1,9 +1,9 @@
 var fs = require('fs');
 var XLSX = require('xlsx');
 var googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyDMyPpU0f9sxH9NXwc9-vpIlzJiDdWRi2I'
+  key: 'AIzaSyAnYxQOANnzBczwOLS5oOuBeGfpockm8KE'
 });
-var max_api_calls = 100;
+var max_api_calls = 300;
 
 //LOADING ALL THE DATA IN PLACEDATA VARIABLE
 var latlong_data = JSON.parse(fs.readFileSync("output.json"));
@@ -57,6 +57,9 @@ function parseData(index, last_row, places_names){
       var name = first_sheet[name_cell].v + ', ' + file_name[i].split(".")[0];
       if (places_names.indexOf(name) == -1){
         places_names.push(name);
+        if(places_names.length > 10){
+          places_names.splice(0,1);
+        }
         api_call_num += 1;
         findgeolocation(name, level, places_names);
       }
